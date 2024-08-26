@@ -1,0 +1,14 @@
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.GeneratedMSBuildEditorConfig.editorconfig
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.AssemblyInfoInputs.cache
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.AssemblyInfo.cs
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.csproj.CoreCompileInputs.cache
+D:\task2\randomnumbergen\randomnumbergen\bin\Debug\net8.0\randomnumbergen.exe
+D:\task2\randomnumbergen\randomnumbergen\bin\Debug\net8.0\randomnumbergen.deps.json
+D:\task2\randomnumbergen\randomnumbergen\bin\Debug\net8.0\randomnumbergen.runtimeconfig.json
+D:\task2\randomnumbergen\randomnumbergen\bin\Debug\net8.0\randomnumbergen.dll
+D:\task2\randomnumbergen\randomnumbergen\bin\Debug\net8.0\randomnumbergen.pdb
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.dll
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\refint\randomnumbergen.dll
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.pdb
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\randomnumbergen.genruntimeconfig.cache
+D:\task2\randomnumbergen\randomnumbergen\obj\Debug\net8.0\ref\randomnumbergen.dll
